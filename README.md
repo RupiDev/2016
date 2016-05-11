@@ -67,6 +67,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Nicholas Gibson](https://twitter.com/Mr_NickyG)|[PredsNU](https://itunes.apple.com/us/app/predsnu/id917520140?mt=8)|Submitted|||
 |[Ritvik Upadhyaya](http://pages.cs.wisc.edu/~ritvik/)||Submitted|Multipeer Connectivity|Accepted|
 |[Rehaan Advani](https://twitter.com/Rehaan_Advani)||[YouTube](https://www.youtube.com/watch?v=mUDBBcXHkLI)|MapKit & 3D Touch|Accepted|
+|[Rupin Bhalla](https://www.instagram.com/vinnyoodles/)|[QSport](https://github.com/QSport/QSport)|[YouTube](https://www.youtube.com/watch?v=f1vPOc-EaQ8)|||
 |[Saif Al-Dilaimi](https://twitter.com/SAIFG92)|[PrayfortheWorld](https://itunes.apple.com/us/app/pray-for-world-add-any-flag/id1075363176?mt=8)||3D Touch & Push Notifications|Rejected|
 |[Salman Husain](https://twitter.com/aeroxtwo)|[Etiquette - a better way to reddit](https://github.com/shusain93/Ettiquete)|[YouTube](https://www.youtube.com/watch?v=pjTiw9Mc19o)|3D Touch & Accessibility|Rejected|
 |[Sam Eckert](https://twitter.com/Sam0711er)|[Simple Counter](https://geo.itunes.apple.com/us/app/simple-counter-count-everything!/id961653412?mt=8)|[YouTube](https://www.youtube.com/watch?v=4uFP_xQWOX4)|3D Touch & watchOS|Rejected|
